@@ -1,0 +1,7 @@
+20/01/2026 17:17:15 - ISLEM: Program baslatildi. Kaynak: ./belgelerim -> Hedef: ./yedekler
+20/01/2026 17:17:15 - ISLEM: BASARILI: './belgelerim' klasoru -> Yedek_2026-01-20__17-17-15.zip oldu.
+20/01/2026 17:17:20 - ISLEM: BASARILI: './belgelerim' klasoru -> Yedek_2026-01-20__17-17-20.zip oldu.
+20/01/2026 17:17:25 - ISLEM: BASARILI: './belgelerim' klasoru -> Yedek_2026-01-20__17-17-25.zip oldu.
+20/01/2026 17:17:30 - ISLEM: BASARILI: './belgelerim' klasoru -> Yedek_2026-01-20__17-17-30.zip oldu.
+20/01/2026 17:17:35 - ISLEM: BASARILI: './belgelerim' klasoru -> Yedek_2026-01-20__17-17-35.zip oldu.
+20/01/2026 17:17:40 - ISLEM: BASARILI: './belgelerim' klasoru -> Yedek_2026-01-20__17-17-40.zip oldu.

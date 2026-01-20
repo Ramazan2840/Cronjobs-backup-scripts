@@ -1,0 +1,6 @@
+{
+  "project_name": "Periyodik Dosya Yedekleyici",
+  "version": "1.0.0",
+  "author": "RAMAZAN ÇİÇEK",
+  "description": "Belirlenen klasorleri otomatik zipleyip yedekleyen python otomasyonu."
+}
